@@ -1,0 +1,14 @@
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BookApi.exe
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BookApi.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BookApi.deps.json
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BookApi.runtimeconfig.json
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BookApi.pdb
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BooksLib.dll
+C:\Users\hasse\source\repos\BookApi\BookApi\obj\Release\net7.0\PubTmp\Out\BooksLib.pdb
